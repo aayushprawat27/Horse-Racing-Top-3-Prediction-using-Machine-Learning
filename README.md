@@ -219,7 +219,7 @@ Potential enhancements include:
 
 ## 👩‍💻 Author
 
-**Ruba Mohanraj**
+**Ayush Rawat**
 
 MSc Business Analytics
 
